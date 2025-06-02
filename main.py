@@ -8,45 +8,45 @@ from docx.shared import Pt, Inches
 from docx.enum.text import WD_ALIGN_PARAGRAPH
 from tqdm import tqdm
 
-# --- توابع مربوط به پردازش فایل و سند ---
+# --- Functions related to file and document processing ---
 
 def extract_text_from_pdf(pdf_path):
     """
-    متن را از هر صفحه یک فایل PDF استخراج می کند.
+    Extracts text from each page of a PDF file.
     """
     if not os.path.exists(pdf_path):
-        print(f"خطا: فایل PDF در مسیر '{pdf_path}' یافت نشد.")
+        print(f"Error: PDF file not found at path '{pdf_path}'.")
         return None
     
     page_texts = []
     try:
         with pdfplumber.open(pdf_path) as pdf:
-            print(f"در حال پردازش {len(pdf.pages)} صفحه از PDF...")
-            for i, page in enumerate(tqdm(pdf.pages, desc="استخراج متن از PDF")):
+            print(f"Processing {len(pdf.pages)} pages from PDF...")
+            for i, page in enumerate(tqdm(pdf.pages, desc="Extracting text from PDF")):
                 text = page.extract_text()
                 page_texts.append(text if text else "") 
         return page_texts
     except Exception as e:
-        print(f"خطا در هنگام استخراج متن از PDF: {e}")
+        print(f"Error during text extraction from PDF: {e}")
         return None
 
 def create_translation_document(original_pdf_name, page_data, target_language, output_folder="translated_documents"):
     """
-    یک سند Word با جداول دو ستونی برای متن اصلی و ترجمه شده ایجاد می کند.
+    Creates a Word document with two-column tables for original and translated text.
     """
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
 
     doc = Document()
-    doc.add_heading(f"ترجمه کتاب: {original_pdf_name}", level=1)
-    doc.add_paragraph(f"زبان اصلی: فارسی\nزبان ترجمه: {target_language}")
+    doc.add_heading(f"Book Translation: {original_pdf_name}", level=1)
+    doc.add_paragraph(f"Original Language: Persian\nTarget Language: {target_language}")
     doc.add_paragraph("\n")
 
-    for i, data in enumerate(tqdm(page_data, desc="ایجاد سند Word")):
+    for i, data in enumerate(tqdm(page_data, desc="Creating Word document")):
         original_text = data['original']
         translated_text = data['translated']
 
-        doc.add_heading(f"صفحه {i + 1}", level=2)
+        doc.add_heading(f"Page {i + 1}", level=2)
         
         table = doc.add_table(rows=1, cols=2)
         table.style = 'Table Grid' 
@@ -59,7 +59,7 @@ def create_translation_document(original_pdf_name, page_data, target_language, o
         cell_original_hdr = hdr_cells[0]
         p_original_hdr = cell_original_hdr.paragraphs[0]
         p_original_hdr.alignment = WD_ALIGN_PARAGRAPH.RIGHT
-        run_original_hdr = p_original_hdr.add_run('متن اصلی (فارسی)')
+        run_original_hdr = p_original_hdr.add_run('Original Text (Persian)')
         run_original_hdr.font.name = 'B Nazanin' 
         run_original_hdr.font.size = Pt(12)
         run_original_hdr.bold = True
@@ -70,7 +70,7 @@ def create_translation_document(original_pdf_name, page_data, target_language, o
              p_translated_hdr.alignment = WD_ALIGN_PARAGRAPH.RIGHT
         else:
              p_translated_hdr.alignment = WD_ALIGN_PARAGRAPH.LEFT
-        run_translated_hdr = p_translated_hdr.add_run(f'ترجمه ({target_language})')
+        run_translated_hdr = p_translated_hdr.add_run(f'Translation ({target_language})')
         run_translated_hdr.font.size = Pt(12)
         run_translated_hdr.bold = True
 
@@ -96,19 +96,19 @@ def create_translation_document(original_pdf_name, page_data, target_language, o
     output_filename = os.path.join(output_folder, f"{original_pdf_name}_translated_to_{target_language}.docx")
     try:
         doc.save(output_filename)
-        print(f"\nسند ترجمه شده با موفقیت در '{output_filename}' ذخیره شد.")
+        print(f"\nTranslated document successfully saved at '{output_filename}'.")
     except Exception as e:
-        print(f"خطا در ذخیره سازی فایل Word: {e}")
+        print(f"Error saving Word file: {e}")
 
-# --- بخش های مربوط به API و اجرای اصلی ---
+# --- Sections related to API and main execution ---
 
 def read_api_config(filename='config.ini'):
     """
-    اطلاعات API (URL و Model) را از فایل config.ini می خواند.
+    Reads API information (URL and Model) from the config.ini file.
     """
     if not os.path.exists(filename):
-        print(f"خطا: فایل کانفیگ '{filename}' یافت نشد.")
-        print("لطفاً یک فایل config.ini طبق راهنما ایجاد کنید و مقادیر url و model را در بخش [API] قرار دهید.")
+        print(f"Error: Config file '{filename}' not found.")
+        print("Please create a config.ini file according to the instructions and place the url and model values in the [API] section.")
         return None, None
 
     config = configparser.ConfigParser()
@@ -118,23 +118,23 @@ def read_api_config(filename='config.ini'):
         api_model = config['API']['model'] 
         return api_url, api_model
     except KeyError as e:
-        print(f"خطا: کلید {e} در بخش [API] فایل '{filename}' یافت نشد. مطمئن شوید 'url' و 'model' تعریف شده باشند.")
+        print(f"Error: Key {e} not found in the [API] section of '{filename}'. Make sure 'url' and 'model' are defined.")
         return None, None
     except Exception as e:
-        print(f"خطا در خواندن فایل کانفیگ '{filename}': {e}")
+        print(f"Error reading config file '{filename}': {e}")
         return None, None
 
 def translate_text_via_api(text_to_translate, api_url, model_name, target_language="English", source_language="Persian"):
     """
-    متن را با استفاده از API مشخص شده ترجمه می کند.
-    این تابع برای API بدون نیاز به کلید و با مدل قابل تنظیم، سفارشی شده است.
+    Translates text using the specified API.
+    This function is customized for an API without a key requirement and with an adjustable model.
     """
     if not text_to_translate.strip():
         return "" 
 
     headers = {
         'Content-Type': 'application/json'
-        # نیازی به هدر Authorization نیست، چون WebAI-to-API خودش احراز هویت را مدیریت می کند
+        # No need for Authorization header, as WebAI-to-API handles authentication itself
     }
 
     translation_prompt = f"Translate the following {source_language} text to {target_language}. Only return the translated text, without any introductory phrases or explanations:\n\n{text_to_translate}"
@@ -145,13 +145,13 @@ def translate_text_via_api(text_to_translate, api_url, model_name, target_langua
     }
 
     try:
-        print(f"\nارسال درخواست ترجمه برای بخشی از متن به: {api_url} با مدل: {model_name}")
+        print(f"\nSending translation request for a part of the text to: {api_url} with model: {model_name}")
         response = requests.post(api_url, headers=headers, json=payload, timeout=60) 
-        response.raise_for_status()  # اگر کد وضعیت خطا باشد، یک استثنا ایجاد می کند
+        response.raise_for_status()  # Raises an exception if the status code is an error
         
         response_data = response.json()
 
-        # استخراج متن ترجمه شده از ساختار پاسخ API
+        # Extract translated text from the API response structure
         if response_data.get("choices") and \
            isinstance(response_data["choices"], list) and \
            len(response_data["choices"]) > 0 and \
@@ -161,48 +161,50 @@ def translate_text_via_api(text_to_translate, api_url, model_name, target_langua
             translated_text = response_data["choices"][0]["message"]["content"]
             return translated_text.strip()
         else:
-            print("خطا: ساختار پاسخ API مورد انتظار نیست یا فاقد محتوای ترجمه شده است.")
-            print(f"جزئیات پاسخ: {response_data}") # چاپ پاسخ برای دیباگ
-            return "خطا در پردازش پاسخ API"
+            print("Error: API response structure is not as expected or lacks translated content.")
+            print(f"Response details: {response_data}") # Print response for debugging
+            return "Error processing API response"
 
     except requests.exceptions.Timeout:
-        print(f"\nخطا: درخواست به API در زمان {60} ثانیه منقضی شد (Timeout).")
-        return f"خطا در ترجمه: Timeout"
+        print(f"\nError: Request to API timed out after {60} seconds (Timeout).")
+        return f"Translation error: Timeout"
     except requests.exceptions.RequestException as e:
-        print(f"\nخطا در هنگام ارتباط با API: {e}")
+        print(f"\nError during communication with API: {e}")
         if hasattr(e, 'response') and e.response is not None:
             try:
-                print(f"جزئیات خطای API: {e.response.json()}")
-            except ValueError: # اگر پاسخ JSON نباشد
-                print(f"جزئیات خطای API (متن): {e.response.text}")
-        return f"خطا در ترجمه: {e}"
+                print(f"API error details: {e.response.json()}")
+            except ValueError: # If response is not JSON
+                print(f"API error details (text): {e.response.text}")
+        return f"Translation error: {e}"
     except Exception as e: 
-        print(f"\nیک خطای پیش بینی نشده در هنگام ترجمه رخ داد: {e}")
-        return f"خطا در ترجمه: {e}"
+        print(f"\nAn unexpected error occurred during translation: {e}")
+        return f"Translation error: {e}"
 
 
 def main():
-    print("--- شروع اسکریپت ترجمه PDF با WebAI-to-API ---")
+    print("\n--- Starting PDF Translation Script with WebAI-to-API ---\n")
     
     api_url, api_model = read_api_config() 
     if not api_url or not api_model:
-        print("اسکریپت به دلیل عدم وجود اطلاعات کامل API (url و model) در کانفیگ متوقف شد.")
+        print("Script stopped due to missing complete API information (url and model) in config.")
         return
 
-    print(f"API URL از کانفیگ خوانده شد: {api_url}")
-    print(f"API Model از کانفیگ خوانده شد: {api_model}")
+    print(f"API URL read from config: {api_url}")
+    print(f"API Model read from config: {api_model}")
 
-    pdf_path = input("لطفاً مسیر کامل فایل PDF را وارد کنید: ").strip()
+    print("\n--- Running Translation ---\n")
+
+    pdf_path = input("Please enter the full path to the PDF file: ").strip()
     if not (pdf_path.lower().endswith(".pdf")):
-        print("خطا: فایل وارد شده یک فایل PDF نیست.")
+        print("Error: The entered file is not a PDF file.")
         return
     if not os.path.exists(pdf_path):
-        print(f"خطا: فایل PDF در مسیر '{pdf_path}' یافت نشد.")
+        print(f"Error: PDF file not found at path '{pdf_path}'.")
         return
 
-    target_language = input("لطفاً زبان مقصد برای ترجمه را وارد کنید (مثلاً English, Arabic, French): ").strip()
+    target_language = input("Please enter the target language for translation (e.g., English, Arabic, French): ").strip()
     if not target_language:
-        print("هشدار: زبان مقصد وارد نشده است. به طور پیش فرض 'English' در نظر گرفته می شود.")
+        print("Warning: Target language not entered. Defaulting to 'English'.")
         target_language = "English" 
 
     source_language = "Persian" 
@@ -210,17 +212,17 @@ def main():
     page_texts = extract_text_from_pdf(pdf_path)
 
     if page_texts is None:
-        print("استخراج متن از PDF ناموفق بود. اسکریپت متوقف شد.")
+        print("Text extraction from PDF failed. Script stopped.")
         return
     
     if not any(pt.strip() for pt in page_texts): 
-        print("هیچ متنی برای ترجمه در PDF یافت نشد.")
+        print("No text found in the PDF to translate.")
         return
 
     translated_page_data = []
-    print(f"\nشروع فرآیند ترجمه {len(page_texts)} صفحه از زبان {source_language} به {target_language} با مدل {api_model}...")
+    print(f"\nStarting translation process for {len(page_texts)} pages from {source_language} to {target_language} with model {api_model}...")
 
-    for i, text in enumerate(tqdm(page_texts, desc="ترجمه صفحات")):
+    for i, text in enumerate(tqdm(page_texts, desc="Translating pages")):
         if not text.strip(): 
             translated_page_data.append({'original': "", 'translated': ""})
             continue
@@ -232,7 +234,7 @@ def main():
     original_pdf_name = os.path.splitext(os.path.basename(pdf_path))[0]
     create_translation_document(original_pdf_name, translated_page_data, target_language)
     
-    print("\n--- پایان اسکریپت ترجمه PDF ---")
+    print("\n--- End of PDF Translation Script ---")
 
 if __name__ == "__main__":
     main()
