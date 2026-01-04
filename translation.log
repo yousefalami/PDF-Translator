@@ -1,0 +1,1955 @@
+2025-07-09 15:27:45,357 - INFO - Starting phase: Optimized PDF Batch Translation Script
+2025-07-09 15:27:45,357 - INFO - Reading configuration from 'config.ini'
+2025-07-09 15:27:45,359 - INFO - Configuration loaded successfully
+2025-07-09 15:27:45,359 - INFO - Starting phase: Input Configuration
+2025-07-09 15:28:48,263 - INFO - Starting phase: Phase 1: PDF Text Extraction
+2025-07-09 15:28:48,372 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,375 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,376 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,378 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,380 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,382 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,385 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,387 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,389 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,390 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,392 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,397 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,398 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,400 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,402 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,404 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,405 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,407 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,408 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,410 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,411 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,412 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,414 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,415 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,416 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,417 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,419 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,420 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,421 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,423 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,424 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,425 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,426 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,428 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,429 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,430 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,431 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,433 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,434 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,435 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,436 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,437 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,438 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,439 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,440 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,442 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,443 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,444 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,445 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,446 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,447 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,448 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,449 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,450 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,451 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,452 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,453 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,455 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,456 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,457 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,458 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,459 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,460 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,461 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,462 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,464 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,465 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,466 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,467 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,469 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,470 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,471 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,473 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,474 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,475 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,476 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,477 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,478 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,479 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,480 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,481 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,482 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,483 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,484 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,486 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,487 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,488 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,489 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,490 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,491 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,492 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,493 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,495 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,496 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,497 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,498 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,499 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,500 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,502 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,503 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,504 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,505 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,506 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,507 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,508 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,509 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,510 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,511 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,512 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,513 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,515 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,516 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,517 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,518 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,519 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,520 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,521 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,523 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,525 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,527 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,528 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,530 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,532 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,534 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,535 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,536 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,538 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,539 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,540 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,541 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,542 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,543 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,544 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,545 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,546 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,548 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,549 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,550 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,551 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,552 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,553 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,554 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,556 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,558 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,559 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,560 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,561 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,562 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,563 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,565 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,566 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,567 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,568 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,569 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,570 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,571 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,572 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,573 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,575 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,576 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,578 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,579 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,580 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,581 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,582 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,583 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,584 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,586 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,587 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,588 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,589 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,590 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,591 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,593 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,594 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,595 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,596 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,597 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,598 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,599 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,600 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,601 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,602 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,603 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,605 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,606 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,607 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,608 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,609 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,610 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,611 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,612 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,613 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,614 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,615 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,616 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,618 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,619 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,620 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,621 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,622 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,624 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,625 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,626 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,627 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,628 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,629 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,630 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,631 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,632 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,633 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,634 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,635 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,637 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,638 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,639 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,640 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,641 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,642 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,643 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,644 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,646 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,647 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,648 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,649 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,650 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,652 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,653 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,654 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,655 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,656 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,657 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,658 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,659 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,661 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,662 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,663 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,664 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,665 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,666 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,667 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,668 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,669 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,670 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,671 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,673 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,674 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,675 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,676 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,677 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,678 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,679 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,680 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,682 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,683 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,684 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,685 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,686 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,687 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,688 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,689 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,691 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,692 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,693 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,694 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,695 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,696 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,697 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,698 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,699 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,700 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,701 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,703 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,704 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,705 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,706 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,707 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,708 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,709 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,710 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,711 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,713 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,714 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,715 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,716 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,717 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,718 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,719 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,720 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,721 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,722 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,724 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,725 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,726 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,727 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,728 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,729 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,730 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,731 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,732 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,733 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,734 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,735 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,737 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,738 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,739 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,740 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,741 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,742 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,744 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,745 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,746 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,747 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,748 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,749 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,751 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,752 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,753 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,754 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,755 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,757 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,758 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,759 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,760 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,761 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,762 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,763 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,764 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,765 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,766 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,768 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,769 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,770 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,771 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,772 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,773 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,775 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,776 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,777 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,778 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,779 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,780 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,781 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,783 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,784 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,785 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,786 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,788 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,789 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,790 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,791 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,793 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,794 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,795 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,796 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,797 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,798 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,799 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,800 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,801 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,802 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,803 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,805 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,806 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,808 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,809 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,810 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,811 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,812 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,813 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,814 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,815 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,816 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,817 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,818 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,819 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,820 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,821 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,823 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,824 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,825 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,826 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,828 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,829 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,830 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,831 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,832 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,833 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,834 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,835 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,836 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,838 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,840 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,841 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,842 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,843 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,844 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,845 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,846 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,847 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,848 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,849 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,851 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,852 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,853 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,854 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,855 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,856 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,857 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,859 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,860 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,861 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,862 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,863 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,864 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,865 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,866 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,868 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,870 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,871 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,872 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,873 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,874 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,876 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,877 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,878 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,879 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,881 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,882 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,883 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,884 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,885 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,886 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,887 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,888 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,890 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,891 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,892 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,893 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,894 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,895 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,896 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,897 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,898 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,899 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,901 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,902 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,903 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,904 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,905 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,907 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,908 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,909 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,910 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,912 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,913 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,914 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,915 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,916 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,917 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,918 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,919 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,920 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,921 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,922 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,923 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,925 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,926 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,927 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,928 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,929 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,930 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,932 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,933 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,934 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,935 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,936 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,937 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,938 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,940 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,941 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,942 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,943 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,944 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,945 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,946 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,948 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,949 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,950 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,951 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,952 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,953 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,954 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,955 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,956 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,957 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,958 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,959 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,960 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,961 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,963 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,965 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,966 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,967 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,968 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,969 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,970 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,971 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,972 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,974 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,975 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,976 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,977 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,978 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,979 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,980 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,981 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,983 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,984 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,985 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,986 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,987 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,988 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,989 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,990 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,991 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,992 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,994 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,995 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,996 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,997 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,998 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:48,999 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,001 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,002 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,003 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,004 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,005 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,006 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,008 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,009 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,010 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,011 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,012 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,014 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,015 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,016 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,018 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,019 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,020 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,021 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,022 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,023 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,025 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,026 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,027 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,028 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,029 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,030 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,032 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,033 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,034 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,035 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,036 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,037 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,039 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,040 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,041 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,043 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,044 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,045 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,046 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,047 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,048 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,049 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,050 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,051 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,052 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,053 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,054 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,056 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,057 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,058 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,059 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,060 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,062 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,063 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,064 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,065 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,066 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,067 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,068 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,069 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,070 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,072 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,073 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,074 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,078 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,080 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,081 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,082 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,083 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,084 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,085 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,087 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,089 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,090 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,091 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,092 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,093 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,094 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,095 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,096 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,098 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,099 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,100 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,101 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,102 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,103 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,104 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,105 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,106 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,107 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,108 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,109 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,110 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,111 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,112 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,113 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,115 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,116 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,117 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,118 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,120 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,121 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,122 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,124 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,125 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,126 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,127 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,128 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,129 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,130 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,131 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,132 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,133 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,134 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,136 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,137 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:28:49,137 - INFO - Processing 649 pages from PDF
+2025-07-09 15:30:49,319 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,319 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,320 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,320 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,320 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,320 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,320 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,320 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,321 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,321 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,321 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,321 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,321 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,321 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,321 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,321 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,322 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,322 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,322 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,322 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,322 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,322 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,322 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,322 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,322 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,323 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,323 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,323 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,323 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,323 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,323 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,323 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,323 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,324 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,324 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,324 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,324 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,324 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,324 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,324 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,324 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,325 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,325 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,325 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,325 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,325 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,325 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,325 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,325 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,326 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,326 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,326 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,326 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,326 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,326 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,326 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,326 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,326 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,327 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,327 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,327 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,327 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,327 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,327 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,327 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,328 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,328 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,328 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,328 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,328 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,328 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,328 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,328 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,328 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,329 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,329 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,329 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,329 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,329 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,329 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,329 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,329 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,329 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,330 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,330 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,330 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,330 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,330 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,330 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,330 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,330 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,330 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,330 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,331 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,331 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,331 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,331 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,331 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,331 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,331 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,331 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,332 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,332 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,332 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,332 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,332 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,332 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,332 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,333 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,333 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,333 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,333 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,333 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,333 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,333 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,334 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,334 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,334 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,334 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,334 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,334 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,334 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,334 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,334 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,334 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,334 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,335 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,335 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,335 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,335 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,335 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,335 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,335 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,335 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,335 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,335 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,336 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,336 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,336 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,336 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,336 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,336 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,336 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,336 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,336 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,336 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,337 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,337 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,337 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,337 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,337 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,337 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,337 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,337 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,337 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,337 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,338 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,338 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,338 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,338 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,338 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,338 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,338 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,338 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,338 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,338 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,339 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,339 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,339 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,339 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,339 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,339 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,339 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,339 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,339 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,339 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,340 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,340 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,340 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,340 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,340 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,340 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,340 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,340 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,340 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,341 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,341 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,341 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,341 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,341 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,341 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,341 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,341 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,341 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,341 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,342 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,342 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,342 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,342 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,342 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,342 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,342 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,342 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,342 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,342 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,343 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,343 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,343 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,343 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,343 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,343 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,343 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,343 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,343 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,343 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,343 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,344 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,344 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,344 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,344 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,344 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,344 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,344 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,344 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,345 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,345 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,345 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,345 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,345 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,345 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,346 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,346 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,346 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,346 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,346 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,347 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,347 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,347 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,347 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,347 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,347 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,347 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,347 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,348 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,348 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,348 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,348 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,348 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,348 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,348 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,349 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,349 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,349 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,349 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,349 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,349 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,349 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,349 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,350 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,350 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,350 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,350 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,350 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,350 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,350 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,350 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,350 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,351 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,351 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,351 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,351 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,351 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,351 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,351 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,352 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,352 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,352 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,352 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,352 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,352 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,352 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,352 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,353 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,353 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,353 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,353 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,353 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,353 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,353 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,353 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,353 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,354 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,354 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,354 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,354 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,354 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,354 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,354 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,354 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,354 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,355 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,355 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,355 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,355 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,355 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,355 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,355 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,355 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,355 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,356 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,356 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,356 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,356 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,356 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,356 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,356 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,356 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,356 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,357 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,357 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,357 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,357 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,357 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,357 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,357 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,357 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,357 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,358 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,358 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,358 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,358 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,358 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,358 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,358 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,358 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,358 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,359 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,359 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,359 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,359 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,359 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,359 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,359 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,359 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,359 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,360 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,360 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,360 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,360 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,360 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,360 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,360 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,361 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,361 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,361 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,361 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,361 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,361 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,361 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,361 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,361 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,362 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,362 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,362 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,362 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,362 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,362 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,362 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,362 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,362 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,363 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,363 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,363 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,363 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,363 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,363 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,363 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,363 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,363 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,364 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,364 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,364 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,364 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,364 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,364 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,364 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,364 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,365 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,365 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,365 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,365 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,365 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,365 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,365 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,365 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,365 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,366 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,366 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,366 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,366 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,366 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,366 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,366 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,366 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,366 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,367 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,367 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,367 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,367 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,367 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,367 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,367 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,367 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,367 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,368 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,368 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,368 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,368 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,368 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,368 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,368 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,368 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,368 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,368 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,369 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,369 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,369 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,369 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,369 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,369 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,369 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,369 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,369 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,370 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,370 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,370 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,370 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,370 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,370 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,370 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,370 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,370 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,370 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,371 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,371 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,371 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,371 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,371 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,371 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,371 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,371 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,371 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,372 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,372 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,372 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,372 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,372 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,372 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,372 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,372 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,372 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,373 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,373 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,373 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,373 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,373 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,373 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,373 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,373 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,373 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,373 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,374 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,374 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,374 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,374 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,374 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,374 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,374 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,374 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,374 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,375 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,375 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,375 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,375 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,375 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,375 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,375 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,375 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,375 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,376 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,376 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,376 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,376 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,376 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,376 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,376 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,376 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,376 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,377 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,377 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,377 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,377 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,377 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,377 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,377 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,377 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,377 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,378 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,378 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,378 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,378 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,378 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,378 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,378 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,378 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,378 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,379 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,379 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,379 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,379 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,379 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,379 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,379 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,379 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,379 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,379 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,380 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,380 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,380 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,380 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,380 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,380 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,380 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,380 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,380 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,381 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,381 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,381 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,381 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,381 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,382 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,382 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,382 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,382 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,382 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,382 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,382 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,383 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,383 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,383 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,383 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,383 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,383 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,383 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,383 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,383 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,383 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,384 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,384 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,384 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,384 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,384 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,384 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,385 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,385 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,385 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,385 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,385 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,385 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,386 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,386 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,386 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,386 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,386 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,386 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,386 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,386 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,386 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,387 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,387 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,387 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,387 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,387 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,387 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,387 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,387 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,387 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,387 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,388 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,388 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,388 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,388 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,388 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,388 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,388 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,388 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,388 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,389 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,389 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,389 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,389 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,389 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,389 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,389 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,389 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,389 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,390 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,390 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,390 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,390 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,390 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,390 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,390 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,390 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,390 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,390 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,391 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,391 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,391 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,391 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,391 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,391 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,391 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,392 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,392 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,392 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,392 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,392 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,392 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,392 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,392 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,392 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,392 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,393 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,393 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,393 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,393 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,393 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,393 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,393 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,393 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,394 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,394 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,394 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,394 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,394 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,394 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,394 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,394 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-07-09 15:30:49,395 - INFO - Text extraction completed successfully
+2025-07-09 15:30:49,395 - INFO - Starting phase: Phase 2: Smart Batch Creation
+2025-07-09 15:30:49,395 - INFO - Creating smart batches with token optimization
+2025-07-09 15:30:49,396 - INFO - Batch 1 created with 9 pages, 7625 chars, ~1781 tokens
+2025-07-09 15:30:49,397 - INFO - Batch 2 created with 3 pages, 6534 chars, ~1575 tokens
+2025-07-09 15:30:49,397 - INFO - Batch 3 created with 3 pages, 6864 chars, ~1656 tokens
+2025-07-09 15:30:49,397 - INFO - Batch 4 created with 4 pages, 7820 chars, ~1881 tokens
+2025-07-09 15:30:49,397 - INFO - Batch 5 created with 3 pages, 6525 chars, ~1574 tokens
+2025-07-09 15:30:49,398 - INFO - Batch 6 created with 3 pages, 7039 chars, ~1701 tokens
+2025-07-09 15:30:49,398 - INFO - Batch 7 created with 3 pages, 6917 chars, ~1670 tokens
+2025-07-09 15:30:49,398 - INFO - Batch 8 created with 3 pages, 6279 chars, ~1513 tokens
+2025-07-09 15:30:49,398 - INFO - Batch 9 created with 3 pages, 7005 chars, ~1691 tokens
+2025-07-09 15:30:49,399 - INFO - Batch 10 created with 3 pages, 6895 chars, ~1664 tokens
+2025-07-09 15:30:49,399 - INFO - Batch 11 created with 3 pages, 7051 chars, ~1703 tokens
+2025-07-09 15:30:49,399 - INFO - Batch 12 created with 3 pages, 7078 chars, ~1710 tokens
+2025-07-09 15:30:49,399 - INFO - Batch 13 created with 3 pages, 6996 chars, ~1689 tokens
+2025-07-09 15:30:49,400 - INFO - Batch 14 created with 3 pages, 7075 chars, ~1710 tokens
+2025-07-09 15:30:49,400 - INFO - Batch 15 created with 3 pages, 7012 chars, ~1693 tokens
+2025-07-09 15:30:49,400 - INFO - Batch 16 created with 3 pages, 6908 chars, ~1667 tokens
+2025-07-09 15:30:49,400 - INFO - Batch 17 created with 3 pages, 6826 chars, ~1647 tokens
+2025-07-09 15:30:49,401 - INFO - Batch 18 created with 3 pages, 7188 chars, ~1737 tokens
+2025-07-09 15:30:49,401 - INFO - Batch 19 created with 3 pages, 6795 chars, ~1641 tokens
+2025-07-09 15:30:49,401 - INFO - Batch 20 created with 3 pages, 6888 chars, ~1662 tokens
+2025-07-09 15:30:49,401 - INFO - Batch 21 created with 3 pages, 6929 chars, ~1673 tokens
+2025-07-09 15:30:49,402 - INFO - Batch 22 created with 3 pages, 6677 chars, ~1610 tokens
+2025-07-09 15:30:49,402 - INFO - Batch 23 created with 3 pages, 6758 chars, ~1629 tokens
+2025-07-09 15:30:49,402 - INFO - Batch 24 created with 3 pages, 6883 chars, ~1661 tokens
+2025-07-09 15:30:49,402 - INFO - Batch 25 created with 3 pages, 7019 chars, ~1695 tokens
+2025-07-09 15:30:49,403 - INFO - Batch 26 created with 3 pages, 6996 chars, ~1689 tokens
+2025-07-09 15:30:49,403 - INFO - Batch 27 created with 3 pages, 7011 chars, ~1693 tokens
+2025-07-09 15:30:49,403 - INFO - Batch 28 created with 3 pages, 6779 chars, ~1634 tokens
+2025-07-09 15:30:49,403 - INFO - Batch 29 created with 3 pages, 7033 chars, ~1697 tokens
+2025-07-09 15:30:49,404 - INFO - Batch 30 created with 3 pages, 6950 chars, ~1678 tokens
+2025-07-09 15:30:49,404 - INFO - Batch 31 created with 3 pages, 6920 chars, ~1669 tokens
+2025-07-09 15:30:49,404 - INFO - Batch 32 created with 3 pages, 6847 chars, ~1652 tokens
+2025-07-09 15:30:49,404 - INFO - Batch 33 created with 4 pages, 7081 chars, ~1699 tokens
+2025-07-09 15:30:49,404 - INFO - Batch 34 created with 3 pages, 6997 chars, ~1688 tokens
+2025-07-09 15:30:49,405 - INFO - Batch 35 created with 3 pages, 7039 chars, ~1699 tokens
+2025-07-09 15:30:49,405 - INFO - Batch 36 created with 3 pages, 6987 chars, ~1686 tokens
+2025-07-09 15:30:49,405 - INFO - Batch 37 created with 3 pages, 7027 chars, ~1696 tokens
+2025-07-09 15:30:49,405 - INFO - Batch 38 created with 3 pages, 6962 chars, ~1677 tokens
+2025-07-09 15:30:49,406 - INFO - Batch 39 created with 3 pages, 7032 chars, ~1694 tokens
+2025-07-09 15:30:49,406 - INFO - Batch 40 created with 3 pages, 6881 chars, ~1659 tokens
+2025-07-09 15:30:49,406 - INFO - Batch 41 created with 3 pages, 6810 chars, ~1643 tokens
+2025-07-09 15:30:49,406 - INFO - Batch 42 created with 3 pages, 7066 chars, ~1705 tokens
+2025-07-09 15:30:49,407 - INFO - Batch 43 created with 3 pages, 6780 chars, ~1635 tokens
+2025-07-09 15:30:49,407 - INFO - Batch 44 created with 3 pages, 7066 chars, ~1705 tokens
+2025-07-09 15:30:49,407 - INFO - Batch 45 created with 3 pages, 7076 chars, ~1709 tokens
+2025-07-09 15:30:49,407 - INFO - Batch 46 created with 3 pages, 7218 chars, ~1744 tokens
+2025-07-09 15:30:49,408 - INFO - Batch 47 created with 3 pages, 7005 chars, ~1691 tokens
+2025-07-09 15:30:49,408 - INFO - Batch 48 created with 3 pages, 6930 chars, ~1672 tokens
+2025-07-09 15:30:49,408 - INFO - Batch 49 created with 3 pages, 7016 chars, ~1693 tokens
+2025-07-09 15:30:49,408 - INFO - Batch 50 created with 3 pages, 7159 chars, ~1729 tokens
+2025-07-09 15:30:49,409 - INFO - Batch 51 created with 3 pages, 7061 chars, ~1705 tokens
+2025-07-09 15:30:49,409 - INFO - Batch 52 created with 3 pages, 6900 chars, ~1665 tokens
+2025-07-09 15:30:49,409 - INFO - Batch 53 created with 3 pages, 6418 chars, ~1546 tokens
+2025-07-09 15:30:49,409 - INFO - Batch 54 created with 3 pages, 7019 chars, ~1694 tokens
+2025-07-09 15:30:49,410 - INFO - Batch 55 created with 3 pages, 7052 chars, ~1703 tokens
+2025-07-09 15:30:49,410 - INFO - Batch 56 created with 3 pages, 6975 chars, ~1683 tokens
+2025-07-09 15:30:49,410 - INFO - Batch 57 created with 3 pages, 7091 chars, ~1713 tokens
+2025-07-09 15:30:49,410 - INFO - Batch 58 created with 3 pages, 6828 chars, ~1648 tokens
+2025-07-09 15:30:49,410 - INFO - Batch 59 created with 3 pages, 6941 chars, ~1675 tokens
+2025-07-09 15:30:49,411 - INFO - Batch 60 created with 3 pages, 7118 chars, ~1718 tokens
+2025-07-09 15:30:49,411 - INFO - Batch 61 created with 3 pages, 7036 chars, ~1699 tokens
+2025-07-09 15:30:49,411 - INFO - Batch 62 created with 3 pages, 6821 chars, ~1644 tokens
+2025-07-09 15:30:49,411 - INFO - Batch 63 created with 3 pages, 6816 chars, ~1642 tokens
+2025-07-09 15:30:49,412 - INFO - Batch 64 created with 3 pages, 6880 chars, ~1660 tokens
+2025-07-09 15:30:49,412 - INFO - Batch 65 created with 4 pages, 7812 chars, ~1878 tokens
+2025-07-09 15:30:49,412 - INFO - Batch 66 created with 3 pages, 6960 chars, ~1680 tokens
+2025-07-09 15:30:49,412 - INFO - Batch 67 created with 3 pages, 7116 chars, ~1718 tokens
+2025-07-09 15:30:49,413 - INFO - Batch 68 created with 3 pages, 6840 chars, ~1650 tokens
+2025-07-09 15:30:49,413 - INFO - Batch 69 created with 3 pages, 6693 chars, ~1614 tokens
+2025-07-09 15:30:49,413 - INFO - Batch 70 created with 3 pages, 6809 chars, ~1643 tokens
+2025-07-09 15:30:49,413 - INFO - Batch 71 created with 3 pages, 7155 chars, ~1728 tokens
+2025-07-09 15:30:49,414 - INFO - Batch 72 created with 3 pages, 7098 chars, ~1714 tokens
+2025-07-09 15:30:49,414 - INFO - Batch 73 created with 3 pages, 7114 chars, ~1718 tokens
+2025-07-09 15:30:49,414 - INFO - Batch 74 created with 3 pages, 6950 chars, ~1677 tokens
+2025-07-09 15:30:49,415 - INFO - Batch 75 created with 3 pages, 7112 chars, ~1717 tokens
+2025-07-09 15:30:49,415 - INFO - Batch 76 created with 3 pages, 7110 chars, ~1717 tokens
+2025-07-09 15:30:49,415 - INFO - Batch 77 created with 3 pages, 7053 chars, ~1702 tokens
+2025-07-09 15:30:49,416 - INFO - Batch 78 created with 3 pages, 7034 chars, ~1699 tokens
+2025-07-09 15:30:49,416 - INFO - Batch 79 created with 3 pages, 7131 chars, ~1722 tokens
+2025-07-09 15:30:49,416 - INFO - Batch 80 created with 3 pages, 7032 chars, ~1697 tokens
+2025-07-09 15:30:49,416 - INFO - Batch 81 created with 3 pages, 5815 chars, ~1398 tokens
+2025-07-09 15:30:49,417 - INFO - Batch 82 created with 3 pages, 7070 chars, ~1707 tokens
+2025-07-09 15:30:49,417 - INFO - Batch 83 created with 3 pages, 6960 chars, ~1680 tokens
+2025-07-09 15:30:49,417 - INFO - Batch 84 created with 3 pages, 7027 chars, ~1695 tokens
+2025-07-09 15:30:49,418 - INFO - Batch 85 created with 3 pages, 6967 chars, ~1682 tokens
+2025-07-09 15:30:49,418 - INFO - Batch 86 created with 3 pages, 6855 chars, ~1652 tokens
+2025-07-09 15:30:49,418 - INFO - Batch 87 created with 3 pages, 6879 chars, ~1659 tokens
+2025-07-09 15:30:49,419 - INFO - Batch 88 created with 3 pages, 6963 chars, ~1681 tokens
+2025-07-09 15:30:49,419 - INFO - Batch 89 created with 3 pages, 6954 chars, ~1678 tokens
+2025-07-09 15:30:49,419 - INFO - Batch 90 created with 3 pages, 6928 chars, ~1672 tokens
+2025-07-09 15:30:49,419 - INFO - Batch 91 created with 3 pages, 6881 chars, ~1660 tokens
+2025-07-09 15:30:49,420 - INFO - Batch 92 created with 3 pages, 6870 chars, ~1658 tokens
+2025-07-09 15:30:49,420 - INFO - Batch 93 created with 3 pages, 6991 chars, ~1686 tokens
+2025-07-09 15:30:49,420 - INFO - Batch 94 created with 3 pages, 7004 chars, ~1691 tokens
+2025-07-09 15:30:49,420 - INFO - Batch 95 created with 3 pages, 6928 chars, ~1672 tokens
+2025-07-09 15:30:49,421 - INFO - Batch 96 created with 3 pages, 6585 chars, ~1587 tokens
+2025-07-09 15:30:49,421 - INFO - Batch 97 created with 3 pages, 6361 chars, ~1531 tokens
+2025-07-09 15:30:49,421 - INFO - Batch 98 created with 3 pages, 6935 chars, ~1674 tokens
+2025-07-09 15:30:49,421 - INFO - Batch 99 created with 3 pages, 7011 chars, ~1692 tokens
+2025-07-09 15:30:49,422 - INFO - Batch 100 created with 3 pages, 6940 chars, ~1675 tokens
+2025-07-09 15:30:49,422 - INFO - Batch 101 created with 3 pages, 6875 chars, ~1659 tokens
+2025-07-09 15:30:49,422 - INFO - Batch 102 created with 3 pages, 7075 chars, ~1709 tokens
+2025-07-09 15:30:49,422 - INFO - Batch 103 created with 3 pages, 7178 chars, ~1734 tokens
+2025-07-09 15:30:49,423 - INFO - Batch 104 created with 3 pages, 6994 chars, ~1688 tokens
+2025-07-09 15:30:49,423 - INFO - Batch 105 created with 3 pages, 7193 chars, ~1736 tokens
+2025-07-09 15:30:49,423 - INFO - Batch 106 created with 3 pages, 6865 chars, ~1656 tokens
+2025-07-09 15:30:49,423 - INFO - Batch 107 created with 3 pages, 6911 chars, ~1668 tokens
+2025-07-09 15:30:49,424 - INFO - Batch 108 created with 3 pages, 6973 chars, ~1682 tokens
+2025-07-09 15:30:49,424 - INFO - Batch 109 created with 3 pages, 6862 chars, ~1655 tokens
+2025-07-09 15:30:49,424 - INFO - Batch 110 created with 3 pages, 6873 chars, ~1658 tokens
+2025-07-09 15:30:49,424 - INFO - Batch 111 created with 3 pages, 6888 chars, ~1663 tokens
+2025-07-09 15:30:49,425 - INFO - Batch 112 created with 3 pages, 6940 chars, ~1675 tokens
+2025-07-09 15:30:49,425 - INFO - Batch 113 created with 3 pages, 6976 chars, ~1684 tokens
+2025-07-09 15:30:49,425 - INFO - Batch 114 created with 3 pages, 6857 chars, ~1654 tokens
+2025-07-09 15:30:49,425 - INFO - Batch 115 created with 3 pages, 6930 chars, ~1671 tokens
+2025-07-09 15:30:49,426 - INFO - Batch 116 created with 3 pages, 6860 chars, ~1655 tokens
+2025-07-09 15:30:49,426 - INFO - Batch 117 created with 3 pages, 6873 chars, ~1658 tokens
+2025-07-09 15:30:49,426 - INFO - Batch 118 created with 3 pages, 7109 chars, ~1716 tokens
+2025-07-09 15:30:49,426 - INFO - Batch 119 created with 3 pages, 6985 chars, ~1685 tokens
+2025-07-09 15:30:49,426 - INFO - Batch 120 created with 3 pages, 7014 chars, ~1693 tokens
+2025-07-09 15:30:49,427 - INFO - Batch 121 created with 3 pages, 7151 chars, ~1728 tokens
+2025-07-09 15:30:49,427 - INFO - Batch 122 created with 3 pages, 7098 chars, ~1715 tokens
+2025-07-09 15:30:49,427 - INFO - Batch 123 created with 3 pages, 6868 chars, ~1657 tokens
+2025-07-09 15:30:49,428 - INFO - Batch 124 created with 3 pages, 6986 chars, ~1686 tokens
+2025-07-09 15:30:49,428 - INFO - Batch 125 created with 3 pages, 7056 chars, ~1704 tokens
+2025-07-09 15:30:49,428 - INFO - Batch 126 created with 3 pages, 7002 chars, ~1690 tokens
+2025-07-09 15:30:49,428 - INFO - Batch 127 created with 3 pages, 6921 chars, ~1670 tokens
+2025-07-09 15:30:49,429 - INFO - Batch 128 created with 3 pages, 6873 chars, ~1658 tokens
+2025-07-09 15:30:49,429 - INFO - Batch 129 created with 3 pages, 7031 chars, ~1696 tokens
+2025-07-09 15:30:49,429 - INFO - Batch 130 created with 3 pages, 7096 chars, ~1713 tokens
+2025-07-09 15:30:49,429 - INFO - Batch 131 created with 3 pages, 7080 chars, ~1710 tokens
+2025-07-09 15:30:49,430 - INFO - Batch 132 created with 3 pages, 7016 chars, ~1694 tokens
+2025-07-09 15:30:49,430 - INFO - Batch 133 created with 3 pages, 6965 chars, ~1681 tokens
+2025-07-09 15:30:49,430 - INFO - Batch 134 created with 3 pages, 6850 chars, ~1652 tokens
+2025-07-09 15:30:49,430 - INFO - Batch 135 created with 3 pages, 7031 chars, ~1697 tokens
+2025-07-09 15:30:49,431 - INFO - Batch 136 created with 3 pages, 7125 chars, ~1721 tokens
+2025-07-09 15:30:49,431 - INFO - Batch 137 created with 3 pages, 7126 chars, ~1721 tokens
+2025-07-09 15:30:49,431 - INFO - Batch 138 created with 4 pages, 7862 chars, ~1890 tokens
+2025-07-09 15:30:49,431 - INFO - Batch 139 created with 3 pages, 7026 chars, ~1696 tokens
+2025-07-09 15:30:49,432 - INFO - Batch 140 created with 3 pages, 6971 chars, ~1683 tokens
+2025-07-09 15:30:49,432 - INFO - Batch 141 created with 3 pages, 7189 chars, ~1737 tokens
+2025-07-09 15:30:49,432 - INFO - Batch 142 created with 3 pages, 7045 chars, ~1701 tokens
+2025-07-09 15:30:49,432 - INFO - Batch 143 created with 3 pages, 7003 chars, ~1691 tokens
+2025-07-09 15:30:49,433 - INFO - Batch 144 created with 3 pages, 6814 chars, ~1643 tokens
+2025-07-09 15:30:49,433 - INFO - Batch 145 created with 3 pages, 7009 chars, ~1692 tokens
+2025-07-09 15:30:49,433 - INFO - Batch 146 created with 3 pages, 7061 chars, ~1705 tokens
+2025-07-09 15:30:49,433 - INFO - Batch 147 created with 3 pages, 6878 chars, ~1660 tokens
+2025-07-09 15:30:49,434 - INFO - Batch 148 created with 3 pages, 6980 chars, ~1684 tokens
+2025-07-09 15:30:49,434 - INFO - Batch 149 created with 3 pages, 6847 chars, ~1651 tokens
+2025-07-09 15:30:49,434 - INFO - Batch 150 created with 3 pages, 7063 chars, ~1705 tokens
+2025-07-09 15:30:49,434 - INFO - Batch 151 created with 3 pages, 6901 chars, ~1665 tokens
+2025-07-09 15:30:49,434 - INFO - Batch 152 created with 3 pages, 7068 chars, ~1706 tokens
+2025-07-09 15:30:49,435 - INFO - Batch 153 created with 3 pages, 6981 chars, ~1686 tokens
+2025-07-09 15:30:49,435 - INFO - Batch 154 created with 3 pages, 6995 chars, ~1689 tokens
+2025-07-09 15:30:49,435 - INFO - Batch 155 created with 3 pages, 7028 chars, ~1697 tokens
+2025-07-09 15:30:49,435 - INFO - Batch 156 created with 3 pages, 7033 chars, ~1698 tokens
+2025-07-09 15:30:49,436 - INFO - Batch 157 created with 3 pages, 6821 chars, ~1645 tokens
+2025-07-09 15:30:49,436 - INFO - Batch 158 created with 3 pages, 6694 chars, ~1614 tokens
+2025-07-09 15:30:49,436 - INFO - Batch 159 created with 3 pages, 6808 chars, ~1641 tokens
+2025-07-09 15:30:49,437 - INFO - Batch 160 created with 3 pages, 7065 chars, ~1706 tokens
+2025-07-09 15:30:49,437 - INFO - Batch 161 created with 3 pages, 6940 chars, ~1675 tokens
+2025-07-09 15:30:49,437 - INFO - Batch 162 created with 3 pages, 7016 chars, ~1693 tokens
+2025-07-09 15:30:49,437 - INFO - Batch 163 created with 4 pages, 7394 chars, ~1777 tokens
+2025-07-09 15:30:49,438 - INFO - Batch 164 created with 3 pages, 6897 chars, ~1663 tokens
+2025-07-09 15:30:49,438 - INFO - Batch 165 created with 3 pages, 6779 chars, ~1635 tokens
+2025-07-09 15:30:49,438 - INFO - Batch 166 created with 3 pages, 6933 chars, ~1673 tokens
+2025-07-09 15:30:49,438 - INFO - Batch 167 created with 3 pages, 6868 chars, ~1656 tokens
+2025-07-09 15:30:49,439 - INFO - Batch 168 created with 3 pages, 6661 chars, ~1605 tokens
+2025-07-09 15:30:49,439 - INFO - Batch 169 created with 3 pages, 7045 chars, ~1701 tokens
+2025-07-09 15:30:49,439 - INFO - Batch 170 created with 3 pages, 6998 chars, ~1689 tokens
+2025-07-09 15:30:49,439 - INFO - Batch 171 created with 3 pages, 6955 chars, ~1678 tokens
+2025-07-09 15:30:49,440 - INFO - Batch 172 created with 3 pages, 6658 chars, ~1604 tokens
+2025-07-09 15:30:49,440 - INFO - Batch 173 created with 3 pages, 6867 chars, ~1656 tokens
+2025-07-09 15:30:49,440 - INFO - Batch 174 created with 3 pages, 6756 chars, ~1629 tokens
+2025-07-09 15:30:49,440 - INFO - Batch 175 created with 3 pages, 6424 chars, ~1548 tokens
+2025-07-09 15:30:49,441 - INFO - Batch 176 created with 3 pages, 6939 chars, ~1674 tokens
+2025-07-09 15:30:49,441 - INFO - Batch 177 created with 3 pages, 6905 chars, ~1665 tokens
+2025-07-09 15:30:49,441 - INFO - Batch 178 created with 3 pages, 6950 chars, ~1677 tokens
+2025-07-09 15:30:49,441 - INFO - Batch 179 created with 3 pages, 6937 chars, ~1674 tokens
+2025-07-09 15:30:49,442 - INFO - Batch 180 created with 3 pages, 6862 chars, ~1655 tokens
+2025-07-09 15:30:49,442 - INFO - Batch 181 created with 3 pages, 6326 chars, ~1524 tokens
+2025-07-09 15:30:49,442 - INFO - Batch 182 created with 3 pages, 7241 chars, ~1747 tokens
+2025-07-09 15:30:49,442 - INFO - Batch 183 created with 3 pages, 7564 chars, ~1828 tokens
+2025-07-09 15:30:49,443 - INFO - Batch 184 created with 3 pages, 7494 chars, ~1811 tokens
+2025-07-09 15:30:49,443 - INFO - Batch 185 created with 3 pages, 7594 chars, ~1835 tokens
+2025-07-09 15:30:49,443 - INFO - Batch 186 created with 3 pages, 6788 chars, ~1635 tokens
+2025-07-09 15:30:49,443 - INFO - Batch 187 created with 3 pages, 6332 chars, ~1519 tokens
+2025-07-09 15:30:49,444 - INFO - Batch 188 created with 3 pages, 6703 chars, ~1613 tokens
+2025-07-09 15:30:49,444 - INFO - Batch 189 created with 3 pages, 6654 chars, ~1601 tokens
+2025-07-09 15:30:49,444 - INFO - Batch 190 created with 3 pages, 7704 chars, ~1862 tokens
+2025-07-09 15:30:49,444 - INFO - Batch 191 created with 3 pages, 6778 chars, ~1631 tokens
+2025-07-09 15:30:49,444 - INFO - Batch 192 created with 3 pages, 6541 chars, ~1571 tokens
+2025-07-09 15:30:49,445 - INFO - Batch 193 created with 3 pages, 7049 chars, ~1699 tokens
+2025-07-09 15:30:49,445 - INFO - Batch 194 created with 3 pages, 6580 chars, ~1582 tokens
+2025-07-09 15:30:49,445 - INFO - Batch 195 created with 3 pages, 6305 chars, ~1514 tokens
+2025-07-09 15:30:49,445 - INFO - Batch 196 created with 3 pages, 6518 chars, ~1566 tokens
+2025-07-09 15:30:49,446 - INFO - Batch 197 created with 3 pages, 6806 chars, ~1642 tokens
+2025-07-09 15:30:49,446 - INFO - Batch 198 created with 2 pages, 5685 chars, ~1379 tokens
+2025-07-09 15:30:49,446 - INFO - Batch 199 created with 2 pages, 5436 chars, ~1317 tokens
+2025-07-09 15:30:49,447 - INFO - Batch 200 created with 2 pages, 5693 chars, ~1381 tokens
+2025-07-09 15:30:49,447 - INFO - Batch 201 created with 3 pages, 7513 chars, ~1817 tokens
+2025-07-09 15:30:49,447 - INFO - Batch 202 created with 3 pages, 7021 chars, ~1688 tokens
+2025-07-09 15:30:49,447 - INFO - Batch 203 created with 3 pages, 7286 chars, ~1755 tokens
+2025-07-09 15:30:49,448 - INFO - Batch 204 created with 3 pages, 7420 chars, ~1788 tokens
+2025-07-09 15:30:49,448 - INFO - Batch 205 created with 3 pages, 7108 chars, ~1712 tokens
+2025-07-09 15:30:49,448 - INFO - Batch 206 created with 3 pages, 7277 chars, ~1757 tokens
+2025-07-09 15:30:49,448 - INFO - Batch 207 created with 3 pages, 6793 chars, ~1635 tokens
+2025-07-09 15:30:49,449 - INFO - Batch 208 created with 3 pages, 5933 chars, ~1416 tokens
+2025-07-09 15:30:49,449 - INFO - Batch 209 created with 3 pages, 6447 chars, ~1544 tokens
+2025-07-09 15:30:49,450 - INFO - Batch 210 created with 4 pages, 6512 chars, ~1549 tokens
+2025-07-09 15:30:49,450 - INFO - Batch 211 created with 3 pages, 6796 chars, ~1633 tokens
+2025-07-09 15:30:49,451 - INFO - Batch 212 created with 3 pages, 6317 chars, ~1519 tokens
+2025-07-09 15:30:49,451 - INFO - Final batch 213 created with 4 pages
+2025-07-09 15:30:49,451 - INFO - Created 213 batches from 649 pages
+2025-07-09 15:30:49,451 - INFO - Starting phase: Phase 3: Concurrent Translation (Russian → Persian)
+2025-07-09 15:30:49,453 - INFO - Translating batch 7dfe029e with 9 pages
+2025-07-09 15:30:49,457 - INFO - Translating batch 80365782 with 3 pages
+2025-07-09 15:30:49,457 - INFO - Translating batch f481cddc with 3 pages
+2025-07-09 15:30:49,457 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,458 - INFO - Translating batch 92968963 with 4 pages
+2025-07-09 15:30:49,458 - INFO - Translating batch 4589844c with 3 pages
+2025-07-09 15:30:49,459 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,459 - INFO - Translating batch 6c7bd9e6 with 3 pages
+2025-07-09 15:30:49,460 - INFO - Translating batch b5f9bc92 with 3 pages
+2025-07-09 15:30:49,460 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,460 - INFO - Translating batch a1191f4f with 3 pages
+2025-07-09 15:30:49,461 - INFO - Translating batch 391a7d59 with 3 pages
+2025-07-09 15:30:49,462 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,462 - INFO - Translating batch efd952ed with 3 pages
+2025-07-09 15:30:49,462 - INFO - Translating batch 08324a99 with 3 pages
+2025-07-09 15:30:49,463 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,463 - INFO - Translating batch 0549e520 with 3 pages
+2025-07-09 15:30:49,464 - INFO - Translating batch 26cf519f with 3 pages
+2025-07-09 15:30:49,464 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,464 - INFO - Translating batch f53f2b38 with 3 pages
+2025-07-09 15:30:49,465 - INFO - Translating batch e6345b7b with 3 pages
+2025-07-09 15:30:49,465 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,465 - INFO - Translating batch 51a15f57 with 3 pages
+2025-07-09 15:30:49,466 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,466 - INFO - Translating batch d1027b5b with 3 pages
+2025-07-09 15:30:49,467 - INFO - Translating batch 7b9ddf07 with 3 pages
+2025-07-09 15:30:49,467 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,467 - INFO - Translating batch 9350e6a4 with 3 pages
+2025-07-09 15:30:49,468 - INFO - Translating batch fc4a4908 with 3 pages
+2025-07-09 15:30:49,468 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,469 - INFO - Translating batch 4b5d67ee with 3 pages
+2025-07-09 15:30:49,469 - INFO - Translating batch d1481dd8 with 3 pages
+2025-07-09 15:30:49,470 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,470 - INFO - Translating batch 73708562 with 3 pages
+2025-07-09 15:30:49,470 - INFO - Translating batch d9773196 with 3 pages
+2025-07-09 15:30:49,471 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,471 - INFO - Translating batch 9d47ea07 with 3 pages
+2025-07-09 15:30:49,471 - INFO - Translating batch 34fa3104 with 3 pages
+2025-07-09 15:30:49,472 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,473 - INFO - Translating batch 20c7d646 with 3 pages
+2025-07-09 15:30:49,473 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,473 - INFO - Translating batch fad22168 with 3 pages
+2025-07-09 15:30:49,473 - INFO - Translating batch 6abf2ab9 with 3 pages
+2025-07-09 15:30:49,473 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,474 - INFO - Translating batch 22b1f0a9 with 3 pages
+2025-07-09 15:30:49,474 - INFO - Translating batch ade42f83 with 3 pages
+2025-07-09 15:30:49,475 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,475 - INFO - Translating batch 96487be4 with 3 pages
+2025-07-09 15:30:49,475 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,476 - INFO - Translating batch 76adcb8c with 4 pages
+2025-07-09 15:30:49,476 - INFO - Translating batch e7276d55 with 3 pages
+2025-07-09 15:30:49,476 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,477 - INFO - Translating batch ff4060cb with 3 pages
+2025-07-09 15:30:49,478 - INFO - Translating batch f1a27f54 with 3 pages
+2025-07-09 15:30:49,478 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,479 - INFO - Translating batch b1a79acd with 3 pages
+2025-07-09 15:30:49,479 - INFO - Translating batch b4bc2bcc with 3 pages
+2025-07-09 15:30:49,479 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,480 - INFO - Translating batch da5a72df with 3 pages
+2025-07-09 15:30:49,480 - INFO - Translating batch 6ac58266 with 3 pages
+2025-07-09 15:30:49,481 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,481 - INFO - Translating batch 44c181b3 with 3 pages
+2025-07-09 15:30:49,482 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,482 - INFO - Translating batch 58cc8d18 with 3 pages
+2025-07-09 15:30:49,482 - INFO - Translating batch 1651d2d1 with 3 pages
+2025-07-09 15:30:49,483 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,483 - INFO - Translating batch bdc1e237 with 3 pages
+2025-07-09 15:30:49,484 - INFO - Translating batch 7f5652f6 with 3 pages
+2025-07-09 15:30:49,484 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,485 - INFO - Translating batch f937b290 with 3 pages
+2025-07-09 15:30:49,485 - INFO - Translating batch 5c8438c9 with 3 pages
+2025-07-09 15:30:49,486 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,486 - INFO - Translating batch 85e29f1a with 3 pages
+2025-07-09 15:30:49,486 - INFO - Translating batch cc774116 with 3 pages
+2025-07-09 15:30:49,487 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,487 - INFO - Translating batch 5b3b73eb with 3 pages
+2025-07-09 15:30:49,488 - INFO - Translating batch d1abfcb1 with 3 pages
+2025-07-09 15:30:49,488 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,489 - INFO - Translating batch 406d84e1 with 3 pages
+2025-07-09 15:30:49,489 - INFO - Translating batch 21d89ecb with 3 pages
+2025-07-09 15:30:49,489 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,489 - INFO - Translating batch 546342aa with 3 pages
+2025-07-09 15:30:49,490 - INFO - Translating batch 73b71ce7 with 3 pages
+2025-07-09 15:30:49,490 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,491 - INFO - Translating batch 01d3b3a1 with 3 pages
+2025-07-09 15:30:49,491 - INFO - Translating batch cd3a1ff7 with 3 pages
+2025-07-09 15:30:49,491 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,492 - INFO - Translating batch 346af5d3 with 3 pages
+2025-07-09 15:30:49,492 - INFO - Translating batch 0ff6d32e with 3 pages
+2025-07-09 15:30:49,493 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,493 - INFO - Translating batch 87948c31 with 3 pages
+2025-07-09 15:30:49,494 - INFO - Translating batch 0e76098c with 3 pages
+2025-07-09 15:30:49,494 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,494 - INFO - Translating batch d88e9c1a with 3 pages
+2025-07-09 15:30:49,495 - INFO - Translating batch 79958ac2 with 3 pages
+2025-07-09 15:30:49,495 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,495 - INFO - Translating batch 47841072 with 3 pages
+2025-07-09 15:30:49,496 - INFO - Translating batch 4ab98bb9 with 4 pages
+2025-07-09 15:30:49,496 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,497 - INFO - Translating batch 15496748 with 3 pages
+2025-07-09 15:30:49,497 - INFO - Translating batch c51dff2d with 3 pages
+2025-07-09 15:30:49,498 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,498 - INFO - Translating batch 130876d1 with 3 pages
+2025-07-09 15:30:49,498 - INFO - Translating batch 3f22485e with 3 pages
+2025-07-09 15:30:49,498 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,499 - INFO - Translating batch db3d1788 with 3 pages
+2025-07-09 15:30:49,499 - INFO - Translating batch d3033b9c with 3 pages
+2025-07-09 15:30:49,499 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,500 - INFO - Translating batch 089110f3 with 3 pages
+2025-07-09 15:30:49,500 - INFO - Translating batch 1cedea8a with 3 pages
+2025-07-09 15:30:49,500 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,501 - INFO - Translating batch 604f7e71 with 3 pages
+2025-07-09 15:30:49,502 - INFO - Translating batch 478c1da4 with 3 pages
+2025-07-09 15:30:49,502 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,502 - INFO - Translating batch da9060a7 with 3 pages
+2025-07-09 15:30:49,503 - INFO - Translating batch f7f1a6f4 with 3 pages
+2025-07-09 15:30:49,503 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,503 - INFO - Translating batch e0d4dff6 with 3 pages
+2025-07-09 15:30:49,504 - INFO - Translating batch 1daa87dc with 3 pages
+2025-07-09 15:30:49,504 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,504 - INFO - Translating batch b3680210 with 3 pages
+2025-07-09 15:30:49,505 - INFO - Translating batch 622d5d59 with 3 pages
+2025-07-09 15:30:49,505 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,505 - INFO - Translating batch d4936f11 with 3 pages
+2025-07-09 15:30:49,506 - INFO - Translating batch ae29f5a7 with 3 pages
+2025-07-09 15:30:49,506 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,507 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,507 - INFO - Translating batch 56696b9c with 3 pages
+2025-07-09 15:30:49,507 - INFO - Translating batch f4af1d85 with 3 pages
+2025-07-09 15:30:49,507 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,507 - INFO - Translating batch b6cf00fd with 3 pages
+2025-07-09 15:30:49,508 - INFO - Translating batch 6eec1262 with 3 pages
+2025-07-09 15:30:49,508 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,509 - INFO - Translating batch 1972d181 with 3 pages
+2025-07-09 15:30:49,509 - INFO - Translating batch 82811673 with 3 pages
+2025-07-09 15:30:49,509 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,509 - INFO - Translating batch aef476c2 with 3 pages
+2025-07-09 15:30:49,510 - INFO - Translating batch b659adc5 with 3 pages
+2025-07-09 15:30:49,510 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,511 - INFO - Translating batch 75b1aff5 with 3 pages
+2025-07-09 15:30:49,511 - INFO - Translating batch 7fd69f1c with 3 pages
+2025-07-09 15:30:49,511 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,512 - INFO - Translating batch 58b89e4a with 3 pages
+2025-07-09 15:30:49,513 - INFO - Translating batch 7e58eb87 with 3 pages
+2025-07-09 15:30:49,513 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,514 - INFO - Translating batch b0f8b390 with 3 pages
+2025-07-09 15:30:49,514 - INFO - Translating batch a74e15c6 with 3 pages
+2025-07-09 15:30:49,515 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,515 - INFO - Translating batch 22473cc7 with 3 pages
+2025-07-09 15:30:49,515 - INFO - Translating batch 13f43b92 with 3 pages
+2025-07-09 15:30:49,516 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,517 - INFO - Translating batch 8baded77 with 3 pages
+2025-07-09 15:30:49,517 - INFO - Translating batch fb3d333a with 3 pages
+2025-07-09 15:30:49,518 - INFO - Translating batch 5e324f76 with 3 pages
+2025-07-09 15:30:49,518 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,518 - INFO - Translating batch aa6c210b with 3 pages
+2025-07-09 15:30:49,519 - INFO - Translating batch b18a35fe with 3 pages
+2025-07-09 15:30:49,519 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,519 - INFO - Translating batch 074bc560 with 3 pages
+2025-07-09 15:30:49,520 - INFO - Translating batch 15bdea0e with 3 pages
+2025-07-09 15:30:49,520 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,520 - INFO - Translating batch be0ccc26 with 3 pages
+2025-07-09 15:30:49,521 - INFO - Translating batch 2008e56c with 3 pages
+2025-07-09 15:30:49,521 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,522 - INFO - Translating batch 0e6199ad with 3 pages
+2025-07-09 15:30:49,522 - INFO - Translating batch 54f3874b with 3 pages
+2025-07-09 15:30:49,523 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,523 - INFO - Translating batch 9c0366ec with 3 pages
+2025-07-09 15:30:49,523 - INFO - Translating batch 21eec9f0 with 3 pages
+2025-07-09 15:30:49,524 - INFO - Translating batch d247be17 with 3 pages
+2025-07-09 15:30:49,524 - INFO - Translating batch 08cea8fb with 3 pages
+2025-07-09 15:30:49,525 - INFO - Translating batch ebec34df with 3 pages
+2025-07-09 15:30:49,525 - INFO - Translating batch a2ae8b2a with 3 pages
+2025-07-09 15:30:49,526 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,526 - INFO - Translating batch c20a2409 with 3 pages
+2025-07-09 15:30:49,526 - INFO - Translating batch 886ba459 with 3 pages
+2025-07-09 15:30:49,527 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,527 - INFO - Translating batch 61ef49d2 with 3 pages
+2025-07-09 15:30:49,527 - INFO - Translating batch 15fd2843 with 3 pages
+2025-07-09 15:30:49,527 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,528 - INFO - Translating batch 976f13a7 with 3 pages
+2025-07-09 15:30:49,529 - INFO - Translating batch 89ad7208 with 3 pages
+2025-07-09 15:30:49,529 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,529 - INFO - Translating batch ae70cc46 with 3 pages
+2025-07-09 15:30:49,530 - INFO - Translating batch b04d1f0e with 3 pages
+2025-07-09 15:30:49,530 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,530 - INFO - Translating batch 2ea4754b with 3 pages
+2025-07-09 15:30:49,531 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,531 - INFO - Translating batch 165d1d8a with 3 pages
+2025-07-09 15:30:49,531 - INFO - Translating batch 93fe2e34 with 3 pages
+2025-07-09 15:30:49,532 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,532 - INFO - Translating batch 9b092844 with 3 pages
+2025-07-09 15:30:49,533 - INFO - Translating batch ba258cb1 with 3 pages
+2025-07-09 15:30:49,533 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,534 - INFO - Translating batch e7edc06d with 3 pages
+2025-07-09 15:30:49,534 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,534 - INFO - Translating batch 7a038f2f with 3 pages
+2025-07-09 15:30:49,535 - INFO - Translating batch 60972eb7 with 3 pages
+2025-07-09 15:30:49,535 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,535 - INFO - Translating batch 00eb74bc with 3 pages
+2025-07-09 15:30:49,536 - INFO - Translating batch 9e9ea373 with 3 pages
+2025-07-09 15:30:49,536 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,536 - INFO - Translating batch 847d2bfb with 3 pages
+2025-07-09 15:30:49,537 - INFO - Translating batch 79b19854 with 3 pages
+2025-07-09 15:30:49,537 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,538 - INFO - Translating batch 3c034c43 with 3 pages
+2025-07-09 15:30:49,538 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,538 - INFO - Translating batch d4a5b0ca with 4 pages
+2025-07-09 15:30:49,539 - INFO - Translating batch 34e9775a with 3 pages
+2025-07-09 15:30:49,539 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,540 - INFO - Translating batch e321f1a9 with 3 pages
+2025-07-09 15:30:49,540 - INFO - Translating batch 31fab1f4 with 3 pages
+2025-07-09 15:30:49,540 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,541 - INFO - Translating batch 33260bce with 3 pages
+2025-07-09 15:30:49,541 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,541 - INFO - Translating batch 9ee79a0c with 3 pages
+2025-07-09 15:30:49,542 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,543 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,543 - INFO - Translating batch 33667747 with 3 pages
+2025-07-09 15:30:49,543 - INFO - Translating batch 13caa56a with 3 pages
+2025-07-09 15:30:49,543 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,544 - INFO - Translating batch 6985b3e8 with 3 pages
+2025-07-09 15:30:49,544 - INFO - Translating batch b8e250a4 with 3 pages
+2025-07-09 15:30:49,544 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,545 - INFO - Translating batch c8037e82 with 3 pages
+2025-07-09 15:30:49,546 - INFO - Translating batch 0fa05697 with 3 pages
+2025-07-09 15:30:49,546 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,547 - INFO - Translating batch 787acab1 with 3 pages
+2025-07-09 15:30:49,547 - INFO - Translating batch f7d57fd8 with 3 pages
+2025-07-09 15:30:49,547 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,548 - INFO - Translating batch 1bb32565 with 3 pages
+2025-07-09 15:30:49,548 - INFO - Translating batch 7bb9e3f8 with 3 pages
+2025-07-09 15:30:49,549 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,549 - INFO - Translating batch 3da0aa98 with 3 pages
+2025-07-09 15:30:49,550 - INFO - Translating batch 845baf03 with 3 pages
+2025-07-09 15:30:49,550 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,551 - INFO - Translating batch 8fabd8b2 with 3 pages
+2025-07-09 15:30:49,551 - INFO - Translating batch 7d23e1e4 with 3 pages
+2025-07-09 15:30:49,552 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,552 - INFO - Translating batch 935f7b35 with 3 pages
+2025-07-09 15:30:49,553 - INFO - Translating batch 9135798a with 3 pages
+2025-07-09 15:30:49,553 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,553 - INFO - Translating batch 67d5eaa9 with 3 pages
+2025-07-09 15:30:49,554 - INFO - Translating batch 5cd88a6f with 3 pages
+2025-07-09 15:30:49,554 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,554 - INFO - Translating batch 1522c46e with 3 pages
+2025-07-09 15:30:49,555 - INFO - Translating batch c389ba08 with 4 pages
+2025-07-09 15:30:49,555 - INFO - Translating batch fcf04363 with 3 pages
+2025-07-09 15:30:49,556 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,556 - INFO - Translating batch 331c1c51 with 3 pages
+2025-07-09 15:30:49,556 - INFO - Translating batch f3114d80 with 3 pages
+2025-07-09 15:30:49,556 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,557 - INFO - Translating batch b2a4cbdd with 3 pages
+2025-07-09 15:30:49,557 - INFO - Translating batch 22027538 with 3 pages
+2025-07-09 15:30:49,558 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,558 - INFO - Translating batch 5d2f5b89 with 3 pages
+2025-07-09 15:30:49,559 - INFO - Translating batch 659137ed with 3 pages
+2025-07-09 15:30:49,559 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,560 - INFO - Translating batch cf8d567e with 3 pages
+2025-07-09 15:30:49,560 - INFO - Translating batch 026c4e40 with 3 pages
+2025-07-09 15:30:49,560 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,561 - INFO - Translating batch 2a9a33f3 with 3 pages
+2025-07-09 15:30:49,561 - INFO - Translating batch 453ff168 with 3 pages
+2025-07-09 15:30:49,562 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,562 - INFO - Translating batch 3c992a10 with 3 pages
+2025-07-09 15:30:49,562 - INFO - Translating batch 73df2d00 with 3 pages
+2025-07-09 15:30:49,562 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,563 - INFO - Translating batch 504c0ac5 with 3 pages
+2025-07-09 15:30:49,563 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,563 - INFO - Translating batch ff5bdbb3 with 3 pages
+2025-07-09 15:30:49,564 - INFO - Translating batch 3f7833c3 with 3 pages
+2025-07-09 15:30:49,564 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,565 - INFO - Translating batch 5f11b91c with 3 pages
+2025-07-09 15:30:49,565 - INFO - Translating batch ad0cb2e4 with 3 pages
+2025-07-09 15:30:49,565 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,566 - INFO - Translating batch 1e4b25dc with 3 pages
+2025-07-09 15:30:49,566 - INFO - Translating batch 171c775e with 3 pages
+2025-07-09 15:30:49,566 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,566 - INFO - Translating batch bb6b164d with 3 pages
+2025-07-09 15:30:49,567 - INFO - Translating batch c963079b with 3 pages
+2025-07-09 15:30:49,567 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,568 - INFO - Translating batch ab72b754 with 3 pages
+2025-07-09 15:30:49,568 - INFO - Translating batch 451a97e5 with 3 pages
+2025-07-09 15:30:49,568 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,569 - INFO - Translating batch 320bd745 with 3 pages
+2025-07-09 15:30:49,569 - INFO - Translating batch d8207146 with 3 pages
+2025-07-09 15:30:49,569 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,570 - INFO - Translating batch 795b4805 with 3 pages
+2025-07-09 15:30:49,570 - INFO - Translating batch d265932f with 3 pages
+2025-07-09 15:30:49,571 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,571 - INFO - Translating batch fb4ff14e with 3 pages
+2025-07-09 15:30:49,572 - INFO - Translating batch 8f3a71d8 with 3 pages
+2025-07-09 15:30:49,572 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,573 - INFO - Translating batch bb80c09f with 3 pages
+2025-07-09 15:30:49,574 - INFO - Translating batch 2ede74c5 with 3 pages
+2025-07-09 15:30:49,574 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,574 - INFO - Translating batch 7073a66f with 3 pages
+2025-07-09 15:30:49,575 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,575 - INFO - Translating batch 44a99426 with 3 pages
+2025-07-09 15:30:49,576 - INFO - Translating batch 7993caad with 2 pages
+2025-07-09 15:30:49,576 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,577 - INFO - Translating batch fcb74d2d with 2 pages
+2025-07-09 15:30:49,577 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,577 - INFO - Translating batch 7c78ecd3 with 2 pages
+2025-07-09 15:30:49,578 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,578 - INFO - Translating batch 24511854 with 3 pages
+2025-07-09 15:30:49,578 - INFO - Translating batch 7b05760f with 3 pages
+2025-07-09 15:30:49,579 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,580 - INFO - Translating batch 3a095bf0 with 3 pages
+2025-07-09 15:30:49,580 - INFO - Translating batch 7ab1faaa with 3 pages
+2025-07-09 15:30:49,580 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,581 - INFO - Translating batch 6e2e1945 with 3 pages
+2025-07-09 15:30:49,582 - INFO - Translating batch dd64a2b4 with 3 pages
+2025-07-09 15:30:49,582 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,583 - INFO - Translating batch 169bd9bd with 3 pages
+2025-07-09 15:30:49,583 - INFO - Translating batch 2227446f with 3 pages
+2025-07-09 15:30:49,584 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,584 - INFO - Translating batch 40417ed5 with 3 pages
+2025-07-09 15:30:49,585 - INFO - Translating batch e4fb82fb with 4 pages
+2025-07-09 15:30:49,585 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,585 - INFO - Translating batch 530186ae with 3 pages
+2025-07-09 15:30:49,586 - INFO - Translating batch 97c70471 with 3 pages
+2025-07-09 15:30:49,586 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,586 - INFO - Translating batch 8aa817a8 with 4 pages
+2025-07-09 15:30:49,587 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,587 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,587 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,587 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,587 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,587 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,587 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,587 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,588 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,588 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,588 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,588 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,588 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,588 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,588 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,588 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,588 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,588 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,588 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,588 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,589 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,589 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,589 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,589 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,589 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,589 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,589 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,589 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,589 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,589 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,589 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,589 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,589 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,590 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,590 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,590 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,590 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,590 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,590 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,590 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,590 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,590 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,590 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,590 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,590 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,591 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,591 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,591 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,591 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,591 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,591 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,591 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,591 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,591 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,591 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,591 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,592 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,592 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,592 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,592 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,592 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,592 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,592 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,593 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,593 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,593 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,593 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,593 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,593 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,593 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,593 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,593 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,593 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,593 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,594 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,594 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,594 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,594 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,594 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,594 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,594 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,594 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,594 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,594 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,594 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,594 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,594 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,595 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,595 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,595 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,595 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,595 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,595 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,595 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,595 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,595 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,595 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,596 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,596 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,596 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,596 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,596 - ERROR - Critical error in batch processing: Invalid format specifier ' 1, "text_to_translate": "translated text"' for object of type 'str'
+2025-07-09 15:30:49,596 - INFO - Starting phase: Phase 4: Recovery of Failed Pages
+2025-07-09 15:30:49,597 - INFO - Starting phase: Phase 5: Document Generation
+2025-07-09 15:30:49,628 - INFO - Creating Word document for 649 pages
+2025-07-09 15:30:56,552 - INFO - Document saved: translated_documents/1_translated_20250709_153056.docx
+2025-07-09 15:30:56,553 - INFO - Starting phase: Translation Summary
+2025-07-09 15:30:56,553 - INFO - Translation completed. Success rate: 0.0%
+2025-07-09 15:30:56,553 - INFO - Starting phase: Script Completed
